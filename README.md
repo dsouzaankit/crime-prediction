@@ -1,5 +1,7 @@
 # linear-regression-case
 
+My solution primarily uses EDA (pandas), linear regression (scikit-learn) and k-fold cross validation logic (NumPy)
+
 Analysis Case:
 
 The governor heard you are a stats wiz and has contacted you for statistical consulting! She is interested in understanding what is driving crime rates in her state so she can plan her crime reduction strategy for the following year. She would like to know what factors are related to a lower crime rate so that she can take action and improve her results (there is talk of her making a run for the presidency and she wants crime to be part of her election platform). She would like you to analyze some data about crime in her state and provide her a summary of the results with recommendations for how to improve crime rates.			
