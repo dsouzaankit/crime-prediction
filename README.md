@@ -1,4 +1,4 @@
-# Linear Regression Case Study
+# Crime Rates by District & Funding
 
 Analysis Case:
 
