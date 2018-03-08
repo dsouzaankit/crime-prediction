@@ -1,6 +1,4 @@
-# linear-regression-case
-
-My solution primarily uses EDA (pandas), linear regression (scikit-learn) and k-fold cross validation logic (NumPy)
+# Linear Regression Case Study
 
 Analysis Case:
 
@@ -11,6 +9,9 @@ Key Questions:
 
 1. What are the key factors related to crime rate in her state and what is the strength of the relationship?			
 			
-2. How big of a role does police funding play in reduction of crime compared to other demographic factors? Do they overlap?			
+2. How big of a role does police funding play in reduction of crime compared to other demographic factors? Do they overlap?	
 			
 3. What actions would you recommend the governor take to reduce crime in her state?			
+
+My solution primarily uses EDA (pandas), linear regression (scikit-learn) and k-fold cross validation logic (NumPy)
+
